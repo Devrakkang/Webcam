@@ -1,0 +1,43 @@
+body {
+    padding: 20px;
+    width: 85%;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+}
+
+.button {
+    margin-top: 20px;
+    float: left;
+    width: 100%;
+}
+
+.btn {
+    text-decoration: none;
+    padding: 10px;
+    background-color: cornflowerblue;
+    color: white;
+    border-radius: 8px;
+}
+
+.btn:hover {
+    background-color: rgba(100, 148, 237, 0.788);
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.content {
+    float: left;
+}
+
+canvas {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+video {
+    margin-top: 20px;
+}
